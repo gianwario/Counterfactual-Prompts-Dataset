@@ -1,0 +1,93 @@
+{
+  "simple_stats": {
+    "total_rows": 241280,
+    "n_unique_topics": 1438,
+    "n_unique_intents": 4,
+    "n_unique_groups": 1536,
+    "n_unique_bias_types": 9,
+    "counts_per_bias_type": {
+      "race-color": 82480,
+      "gender": 41920,
+      "socioeconomic": 27760,
+      "nationality": 25440,
+      "religion": 16640,
+      "age": 13920,
+      "sexual-orientation": 13440,
+      "physical-appearance": 10080,
+      "disability": 9600
+    },
+    "counts_per_intent": {
+      "Question": 60320,
+      "Recommendation": 60320,
+      "Direction": 60320,
+      "Clarification": 60320
+    },
+    "bias_type_by_intent": {
+      "age": {
+        "Clarification": 3480,
+        "Direction": 3480,
+        "Question": 3480,
+        "Recommendation": 3480
+      },
+      "disability": {
+        "Clarification": 2400,
+        "Direction": 2400,
+        "Question": 2400,
+        "Recommendation": 2400
+      },
+      "gender": {
+        "Clarification": 10480,
+        "Direction": 10480,
+        "Question": 10480,
+        "Recommendation": 10480
+      },
+      "nationality": {
+        "Clarification": 6360,
+        "Direction": 6360,
+        "Question": 6360,
+        "Recommendation": 6360
+      },
+      "physical-appearance": {
+        "Clarification": 2520,
+        "Direction": 2520,
+        "Question": 2520,
+        "Recommendation": 2520
+      },
+      "race-color": {
+        "Clarification": 20620,
+        "Direction": 20620,
+        "Question": 20620,
+        "Recommendation": 20620
+      },
+      "religion": {
+        "Clarification": 4160,
+        "Direction": 4160,
+        "Question": 4160,
+        "Recommendation": 4160
+      },
+      "sexual-orientation": {
+        "Clarification": 3360,
+        "Direction": 3360,
+        "Question": 3360,
+        "Recommendation": 3360
+      },
+      "socioeconomic": {
+        "Clarification": 6940,
+        "Direction": 6940,
+        "Question": 6940,
+        "Recommendation": 6940
+      }
+    },
+    "n_groups_per_bias_type": {
+      "race-color": 454,
+      "gender": 238,
+      "nationality": 237,
+      "socioeconomic": 214,
+      "religion": 104,
+      "physical-appearance": 98,
+      "disability": 97,
+      "age": 91,
+      "sexual-orientation": 87
+    }
+  }
+}
