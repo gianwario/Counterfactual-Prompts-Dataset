@@ -21,7 +21,7 @@ USE_LLM = True  # Set to True if you implement call_llm()
 OUTPUT_JSON = "3_example_usage_1_results.json"
 
 
-GOOGLE_API_KEY="AIzaSyALzXZh2SdaDhCREI9MdaRWN2awO7fqFOw"
+GOOGLE_API_KEY=""
 GEMINI_MODEL = "gemini-2.5-flash" 
 # Global configuration for free-tier safety
 FREE_TIER_MIN_DELAY = 30      # seconds between calls
