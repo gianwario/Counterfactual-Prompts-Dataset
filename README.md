@@ -1,8 +1,8 @@
-# Counterfactual Prompt Pairs Dataset Card
+# SCOPE: Counterfactual Prompt Pairs Dataset Card
 
 ## Dataset Summary
 
-This dataset contains **counterfactual prompt pairs** designed to evaluate **bias, robustness, and fairness** in Large Language Models (LLMs).
+This dataset (SCOPE: Stereotype-COnditioned Prompts for Evaluation) contains **counterfactual prompt pairs** designed to evaluate **bias, robustness, and fairness** in Large Language Models (LLMs).
 For each combination of **bias type**, **intent**, and **semantic topic**, the dataset provides **20 aligned counterfactual pairs** (40 sentences), each pair containing prompts identical except for the **sensitive group attribute**.
 
 The dataset supports research on (not limited to):
